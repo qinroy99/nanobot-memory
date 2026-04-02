@@ -1,4 +1,7 @@
 # nanobot-memory: Complete Guide to Memory Recall
+
+中文版说明见目录
+
 A clear, copy-paste-ready guide for **automatic & manual memory recall** for nanobot-memory. Works out of the box.
 
 ---
